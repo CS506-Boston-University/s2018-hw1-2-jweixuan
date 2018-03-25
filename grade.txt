@@ -1,0 +1,13 @@
+a)
+Q1: plot for N=100:    1/1
+Q2: plot for N=1000:   1/1
+
+b)
+Q3: create 1000 random variables based on distribution:    1/1
+Q4: compute the standardized sum for N=1,10,100:      1/1
+Q5: plot the cdf of standardized mean for N=1,10,100:      1/1
+
+c)
+Q6: Plt observations:         0.5/1 (we were expecting an interpretation of the relationship between the gaussian distribution and the CDF) 
+
+Total:                        5.5/6
